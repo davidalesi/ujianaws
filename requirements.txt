@@ -1,0 +1,2 @@
+# File: requirements.txt
+flask==1.1.2
